@@ -15,40 +15,6 @@
     border-radius: 5px;
 }
 
-.header-logo-links {
-    display: flex;
-    justify-content: space-between;
-    background-color: #1F2937;
-    padding-left: 90px;
-    padding-right: 100px;
-    align-items: flex-start;
-}
-
-.website-awesome {
-    display: flex;
-    flex-direction: column;
-}
-
-.website-awesome-picture {
-    display: flex; 
-    gap: 25px;
-    padding-left: 90px;
-    padding-right: 100px;
-    padding-bottom: 50px;
-    justify-content: center;
-}
-
-/*
-p {
-    color: white;
-    margin-top: 0%;
-    margin-bottom: 5px;
-}
-
-h6 {
-    margin-top: 5px;
-}
-*/
 .container {
     display: flex;
     flex-direction: column;
